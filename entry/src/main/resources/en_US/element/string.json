@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "天气"
+    },
+    {
+      "name": "internet_access_reason",
+      "value": "Need internet access"
+    },
+    {
+      "name": "read_contacts_reason",
+      "value": "Need to read contacts"
+    }
+  ]
+}

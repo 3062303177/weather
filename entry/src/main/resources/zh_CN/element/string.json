@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "weather"
+    },
+    {
+      "name": "internet_access_reason",
+      "value": "需要互联网访问"
+    },
+    {
+      "name": "read_contacts_reason",
+      "value": "需要读取联系人"
+    }
+  ]
+}
